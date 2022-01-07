@@ -17,7 +17,10 @@ Diabetes is considered as one of the serious health issues which cause an increa
 # The aim here is to build a model to detect and predict diabetes.
 
 # Abstract:-  
-Diabetes is an illness caused because of high glucose levels in the human body. Diabetes should not be ignored if it is untreated then Diabetes may cause some major issues in a person like heart-related problems, kidney problems, blood pressure, eye damage and it can also affect other organs of the human body. Diabetes can be controlled if it is predicted earlier. To achieve this goal this project work we will do early prediction of Diabetes in a human body or a patient for higher accuracy through applying, Various Machine Learning Techniques. Machine learning techniques Provide better results for prediction by constructing models from datasets collected from patients. In this work, we will use Machine Learning Classification and ensemble techniques on a dataset to predict diabetes.
+Diabetes is a chronic disease caused by Increased glucose levels in the human body. Diabetes is dangours illness  that lead to a destroyer complications  in patients for example : 
+kidney,heart diseases, blood pressure disturbance, eye damage and diabetic foot (ulcer) that result in organ amputation . 
+Early prediction of Diabetes leads to controlling it . 
+To achieve this goal this project work we will do early prediction of Diabetes in a human body or a patient for higher accuracy through applying, Various Machine Learning Techniques. Machine learning techniques Provide better results for prediction by constructing models from datasets collected from patients. In this work, we will use Machine Learning Classification and ensemble techniques on a dataset to predict diabetes.
 
 ### Which are  
 * K-Nearest Neighbour (KNN).
