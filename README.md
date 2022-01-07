@@ -1,6 +1,6 @@
 # SDAIA-T5-BOOTCAMP
 EBTIHAL1ST PROJECT
-![DM.JPG](DM.JPG)
+![DM.jpg](DM.jpg)
 # PROJACT NAME 
 # Diabetes-Prediction 
 
